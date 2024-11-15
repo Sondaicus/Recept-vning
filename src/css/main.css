@@ -1,0 +1,44 @@
+#spacing_article
+{
+    width:896px;
+    height:1068px;
+    background-color:rgb(224, 172, 172);
+}
+
+#main_article
+{
+    width:596px;
+    height:1038px;
+    background-color:rgb(255, 255, 255);
+    position: relative;
+    left: 150px;
+}
+
+#content_article
+{
+    position: relative;
+    left: 30px;
+    width:566px;
+}
+
+#huvudbild
+{
+    width:596px;
+}
+
+#main_title
+{
+    color:rgb(168, 4, 4);
+}
+
+#sub_title_background
+{
+    background-color:rgb(240, 236, 236);
+    width:546px;
+}
+
+#mindre_bild
+{
+    width: 275px;
+    border-spacing: 50px;
+}
