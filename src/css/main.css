@@ -1,8 +1,9 @@
 #spacing_article
 {
-    width:896px;
-    height:1068px;
     background-color:rgb(224, 172, 172);
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 #main_article
@@ -10,13 +11,14 @@
     width:596px;
     height:1038px;
     background-color:rgb(255, 255, 255);
-    position: relative;
-    left: 150px;
+    position: absolute;
+    top:  0%;
+    left: 50%;
+    transform: translate(-50%,-0%);
 }
 
 #content_article
 {
-    position: relative;
     left: 30px;
     width:566px;
 }
