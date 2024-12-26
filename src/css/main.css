@@ -44,3 +44,15 @@
     width: 275px;
     border-spacing: 50px;
 }
+
+
+/*
+img {
+    width: 100%;
+    height: 400px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+   
+ }*/
